@@ -5,7 +5,7 @@
    ## Overview
       Program ini terdiri dari satu file bernama 'main.go' dan mencakup komponen-komponen utama berikut:
       - Pernyataan 'package main', yang mendefinisikan paket untuk program yang dapat dieksekusi.
-      - Pernyataan 'import', yang digunakan untuk menyertakan paket-paket yang diperlukan (dalam hal ini, 'fmt' dan 'math').
+      - Pernyataan 'import', yang digunakan untuk menyertakan paket-paket yang diperlukan (dalam hal ini, 'fmt').
       - Fungsi 'main()', yang merupakan titik awal dari setiap program Go.
       - Pendefinisian Tipe Data arrBerat, Sebuah array dengan kapasitas 1000 elemen bertipe float64 yang digunakan untuk menyimpan berat anak kelinci.
       - Fungsi BeratTerkecil, Fungsi ini menerima parameter berupa array arrBerat dan jumlah elemen n dan juga Mengembalikan nilai berat terkecil dari elemen-elemen dalam array.
@@ -87,7 +87,7 @@
    ## Overview
       Program ini terdiri dari satu file bernama 'main.go' dan mencakup komponen-komponen utama berikut:
       - Pernyataan 'package main', yang mendefinisikan paket untuk program yang dapat dieksekusi.
-      - Pernyataan 'import', yang digunakan untuk menyertakan paket-paket yang diperlukan (dalam hal ini, 'fmt' dan 'math').
+      - Pernyataan 'import', yang digunakan untuk menyertakan paket-paket yang diperlukan (dalam hal ini, 'fmt').
       - Fungsi 'main()', yang merupakan titik awal dari setiap program Go.
       - Deklarasi Tipe Data IkanWeights, Mendeklarasikan tipe data baru berupa array dengan kapasitas 1000 elemen bertipe float64 untuk menyimpan berat ikan.
       - Fungsi hitungTotalPerWadah, Fungsi untuk menghitung total berat ikan dalam setiap wadah berdasarkan jumlah ikan dan kapasitas wadah yang diberikan.
@@ -190,7 +190,7 @@
    ## Overview
       Program ini terdiri dari satu file bernama 'main.go' dan mencakup komponen-komponen utama berikut:
       - Pernyataan 'package main', yang mendefinisikan paket untuk program yang dapat dieksekusi.
-      - Pernyataan 'import', yang digunakan untuk menyertakan paket-paket yang diperlukan (dalam hal ini, 'fmt' dan 'math').
+      - Pernyataan 'import', yang digunakan untuk menyertakan paket-paket yang diperlukan (dalam hal ini, 'fmt').
       - Fungsi 'main()', yang merupakan titik awal dari setiap program Go.
       - Deklarasi tipe data arrBalita, Menggunakan array dengan kapasitas 100 untuk menampung data berat balita.
       - Fungsi hitungMinMax, Menghitung nilai berat balita minimum dan maksimum dengan menggunakan pointer untuk mengubah nilai variabel di luar fungsi.
